@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+	<body>
+	table {
+		border: 1px solid gold;
+	}
+	td:hover {
+		background-color: black;
+		color: yellow;
+	}
+	tr, th {
+		background-color: darkred;
+		color: lightblue;
+	}
+	tr, td {
+		background-color: yellow;
+		color: green;
+	}
+		<h1>Cat of the month table</h1>
+		h1 {
+  text-shadow: 2px 2px #ff0000;
+		<table style="width:100%">
+			<tr>
+				<th>Name</th>
+				<th>Phone Number</th>
+				<th>Email</th>
+				<th>Notes</th>
+			</tr>
+			<tr>
+				<td>Jeffrey Paws</td>
+				<td>9094537865</td>
+				<td>jpaws@kitties.com</td>
+				<td>August 2022 winner</td>
+			<tr>
+				<td>Miley O'tailee</td>
+				<td>2088765309</td>
+				<td>notailforme@cattoss.com</td>
+				<td>July 2022 winner</td>
+			</tr>
+			<tr>
+				<td>Cathy Whiskers</td>
+				<td>8461231453</td>
+				<td>whiskerlicker@catfriends.com</td>
+				<td>June 2022 winner</td>
+			</tr>
+		</table>
+		<link rel="stylesheet" type="text/css" href="CSS_table.css">
+	</body>
+</html>	

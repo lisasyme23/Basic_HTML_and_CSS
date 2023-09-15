@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<body>
+	h1 {
+  text-shadow: 2px 2px #ff0000;
+}
+	<style>
+		p {
+			color: yellow;
+			background: darkgreen;
+			font-weight: italic;
+			text-align: right;
+		}
+	<p>This is practice for using html and css. I am learning a lot in this class</p>
+	<link rel="stylesheet" type="text/css" href="Basic_HTML_5.html">
+</body>
+</html>

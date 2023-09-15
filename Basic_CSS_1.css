@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>The basics of html.</title>
+		</head>
+		<body>
+			<h1><font color="blue">Reading is important for coding.</h1></font>
+			
+			<div style="color:orange">
+				<h2>Coding will get easier, just give it time and practice.</h2>
+				<p><i>Everyone should learn to code. There are programs to help you learn. This is actually fun to do.</p></i>
+				<p style="text-align:center;"><font color="pink"><b><font size="6">I'm hoping the color and alignment of this paragraph works for us.</p></font></b>
+		</body>
+	</html>

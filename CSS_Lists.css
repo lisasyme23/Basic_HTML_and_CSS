@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+	<body>
+	ol {
+		list-style-type: upper-roman;
+	}
+	ul {
+		list-style-type: square;
+	}
+		<ul>
+			<li>Pencils</li>
+			<li>Jackets</li>
+			<li>Erasers</li>
+			<li>Headphones</li>
+			<li>Notebook</li>
+		</ul>
+		<ol>
+			<li>Snouzer</li>
+			<li>Weiner</li>
+			<li>Rottweiler</li>
+			<li>Doberman</li>
+			<li>Chihuahua</li>
+		</ol>
+		<link rel="stylesheet" type="text/css" href="CSS_table.css">
+	</body>
+</html>
